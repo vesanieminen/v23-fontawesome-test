@@ -123,6 +123,11 @@
             <version>5.0.3</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.flowingcode.addons</groupId>
+            <artifactId>font-awesome-iron-iconset</artifactId>
+            <version>3.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>
